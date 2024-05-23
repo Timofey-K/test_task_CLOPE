@@ -1,0 +1,10 @@
+C:\Users\Timofey\source\repos\Test_CLOPE\bin\Debug\Test_CLOPE.exe.config
+C:\Users\Timofey\source\repos\Test_CLOPE\bin\Debug\Test_CLOPE.exe
+C:\Users\Timofey\source\repos\Test_CLOPE\bin\Debug\Test_CLOPE.pdb
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.csproj.AssemblyReference.cache
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.Form1.resources
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.Properties.Resources.resources
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.csproj.GenerateResource.cache
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.exe
+C:\Users\Timofey\source\repos\Test_CLOPE\obj\Debug\Test_CLOPE.pdb
